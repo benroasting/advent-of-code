@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benroasting/advent-of-code-2024.git",
+  "author": "Ben Young <ben.young@ramseysolutions.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
