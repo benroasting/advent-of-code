@@ -9,6 +9,8 @@ let input = fs.readFileSync(realDataFile).toString().trim().split("\n");
 console.log("🚀 ~ input:", input);
 let word_puzzle = [];
 
+// basically setting up a word search puzzle
+
 function puzzle(input) {
   for (let i = 0; i < input.length; i++) {
     let puzzle_rows = [];
